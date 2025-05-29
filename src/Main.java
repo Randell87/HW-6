@@ -11,8 +11,9 @@ public class Main {
         while(sum < 2459000){
             sum = sum + 15000;
             mounthCount++;
+            System.out.println("Месяц " + mounthCount + ", сумма накоплений равна " + sum + " рублей");
         }
-        System.out.println("Месяц " + mounthCount + ", сумма накоплений равна " + sum + " рублей");
+        //System.out.println("Месяц " + mounthCount + ", сумма накоплений равна " + sum + " рублей");
 
 
         //Задача 2
