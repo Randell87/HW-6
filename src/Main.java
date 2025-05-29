@@ -121,6 +121,7 @@ public class Main {
         //1975
         //
         //2054
+
         int period = 79;
         int currentYear = 2025;
         for(int cometaYear = 0; cometaYear <=(currentYear + 100); cometaYear = cometaYear + period){
